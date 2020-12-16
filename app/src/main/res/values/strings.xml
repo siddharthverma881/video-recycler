@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apptunix Project</string>
+    <string name="splash_tv">WELCOME</string>
+    <string name="home_tv">No Video Selected</string>
+    <string name="home_btn">Select Videos</string>
+
+    <string name="error_amount_videos">Please select 3 videos</string>
+    <string name="back_press_exit">Tap again to exit</string>
+</resources>

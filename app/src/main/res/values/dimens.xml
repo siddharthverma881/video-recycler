@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_medium">50sp</dimen>
+    <dimen name="text_size_small">20sp</dimen>
+
+    <dimen name="splash_tv_margin">50dp</dimen>
+    <dimen name="splash_progressbar_height">50dp</dimen>
+    <dimen name="splash_progressbar_width">50dp</dimen>
+    <dimen name="home_btn_margin_top">10dp</dimen>
+    <dimen name="home_btn_margin_bottom">20dp</dimen>
+    <dimen name="home_btn_padding">30dp</dimen>
+
+</resources>
